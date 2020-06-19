@@ -1,3 +1,4 @@
+var merge= function(intervals){
   /*
     sort ([1,3],[2,6])
     stack=[[1,3]]
